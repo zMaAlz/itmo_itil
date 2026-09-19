@@ -2,6 +2,6 @@
 ----
 
 **Содержание:**
-- [Паспорт проекта](Project_passport\README.md)
-- [Практическая работа №1 — Разработка проекта SLA](Practical_Work_1\README.md)
+- [Паспорт проекта](Project_passport)
+- [Практическая работа №1 — Разработка проекта SLA](Practical_Work_1)
 
